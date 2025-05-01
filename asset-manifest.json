@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/torneo/static/css/main.77c535ea.css",
+    "main.js": "/torneo/static/js/main.2c037d08.js",
+    "index.html": "/torneo/index.html",
+    "main.77c535ea.css.map": "/torneo/static/css/main.77c535ea.css.map",
+    "main.2c037d08.js.map": "/torneo/static/js/main.2c037d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77c535ea.css",
+    "static/js/main.2c037d08.js"
+  ]
+}
